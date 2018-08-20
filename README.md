@@ -1,4 +1,4 @@
-# ubuntu-dind
+# ubuntu-dind : 18.04
 Using container test bed.
 - ubuntu version : 18.04
 - docker version : 18.06.0-ce
